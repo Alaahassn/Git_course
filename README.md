@@ -1,4 +1,3 @@
 # Git_course
-##project note
-
 course to learn git &amp; github
+## project note
